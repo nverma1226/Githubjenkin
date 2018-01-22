@@ -3,7 +3,7 @@
 <suite name="NeerajSuite">
   <test thread-count="1" name="NeerajTest">
   <classes>
-<class name= "Package1.Class_one"></class>
+<class name= "Package1.Class_two"></class>
 
   </classes>
   </test> <!-- Test -->
