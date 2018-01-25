@@ -8,6 +8,6 @@ public class Class_one {
 	public void method1()
 	{
 		System.out.println();
-		System.out.println("This is class_one_of_NeerajBranch");
-	}
+		System.out.println("This is class_one in branch_NeerajBranch2");	}
 }
+
